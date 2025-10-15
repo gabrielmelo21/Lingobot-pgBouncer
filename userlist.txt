@@ -1,1 +1,1 @@
-"postgres" "senha_aqui"
+"${PGBOUNCER_USER}" "${PGBOUNCER_PASSWORD}"
